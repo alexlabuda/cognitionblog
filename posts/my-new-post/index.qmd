@@ -1,0 +1,9 @@
+---
+title: "MY new post"
+author: "Alex Labuda"
+date: "2022-11-17"
+categories: [analysis]
+image: "April 2022 All Hands-123.jpg"
+---
+
+This is my new post. This is me!
