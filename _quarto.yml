@@ -6,7 +6,7 @@ project:
     browser: false
 
 website:
-  title: "My Blog"
+  title: "Alex Labuda's Blog"
   navbar:
     right:
       - about.qmd
