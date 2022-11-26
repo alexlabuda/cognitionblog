@@ -4,6 +4,7 @@ author: "Alex Labuda"
 date: "2022-11-17"
 categories: [analysis]
 image: "April 2022 All Hands-123.jpg"
+draft: true
 ---
 
 This is my first post. This is me!
