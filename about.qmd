@@ -1,8 +1,8 @@
 ---
-title: "About"
+title: "Alex Labuda"
 image: profile.jpg
 about:
-  template: jolla
+  template: solana
   links:
     # - icon: twitter
     #   text: Twitter
@@ -15,4 +15,20 @@ about:
       href: https://github.com/alexlabuda
 ---
 
-About this blog
+I am a Data Scientist and Tableau developer based in New York, currently working for Zion & Zion, a full-service marketing agency in Tempe, Arizona.
+
+## Education
+
+State University of New York, New Paltz | New Paltz, NY
+BA in Data Analytics & Finance (Dual Major) | Jan 2019 - Dec 2021
+
+SUNY Orange New York, Middletown | Middletown, NY
+AS in Liberal Arts | Jan 2009 - June 2011
+
+## Experience
+
+Zion & Zion | Data Scientist & Tableau Developer | Jan 2021 - Present
+
+FedEx Express | Courier | Feb 2014 - March 2021
+
+FedEx Ground | Courier | Oct 2011 - Feb 2014

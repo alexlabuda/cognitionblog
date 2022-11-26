@@ -1,5 +1,5 @@
 ---
-title: "cognitionblog"
+title: "Welcome to my Blog!"
 listing:
   contents: posts
   sort: "date desc"
