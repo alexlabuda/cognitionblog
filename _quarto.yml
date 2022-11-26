@@ -11,9 +11,14 @@ website:
     right:
       - about.qmd
       - icon: github
-        href: https://github.com/
-      - icon: twitter
-        href: https://twitter.com
+        href: https://github.com/alexlabuda
+      - icon: linkedin
+        href: https://www.linkedin.com/in/alex-labuda/
+      - icon: arrow-right-square
+        text: Portfolio
+        href: https://alex-labuda-portfolio.netlify.app/
+      - icon: bar-chart
+        href: https://public.tableau.com/app/profile/alexlabuda
 format:
   html:
     theme: flatly

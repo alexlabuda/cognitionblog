@@ -1,12 +1,15 @@
 ---
-title: "Alex Labuda"
+title: "About Alex"
 image: my-profile-pic.jpg
 about:
-  template: solana
+  template: trestles
   links:
     - icon: arrow-right-square
       text: Portfolio
       href: https://alex-labuda-portfolio.netlify.app/
+    - icon: bar-chart
+      text: Tableau Public
+      href: https://public.tableau.com/app/profile/alexlabuda     
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/alex-labuda/
@@ -15,7 +18,7 @@ about:
       href: https://github.com/alexlabuda
 ---
 
-I am a Data Scientist and Tableau developer based in New York, currently working for Zion & Zion, a full-service marketing agency in Tempe, Arizona.
+I am a Data Scientist and Tableau developer based in New York. I currently work for Zion & Zion, a full-service marketing agency in Tempe, Arizona.
 
 ## Education
 

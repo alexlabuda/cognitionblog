@@ -2,9 +2,9 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "Alex Labuda",
+    "title": "About Alex",
     "section": "",
-    "text": "I am a Data Scientist and Tableau developer based in New York, currently working for Zion & Zion, a full-service marketing agency in Tempe, Arizona."
+    "text": "I am a Data Scientist and Tableau developer based in New York. I currently work for Zion & Zion, a full-service marketing agency in Tempe, Arizona."
   },
   {
     "objectID": "index.html",
@@ -30,14 +30,14 @@
   {
     "objectID": "about.html#education",
     "href": "about.html#education",
-    "title": "Alex Labuda",
+    "title": "About Alex",
     "section": "Education",
     "text": "Education\nState University of New York, New Paltz | New Paltz, NY BA in Data Analytics & Finance (Dual Major) | Jan 2019 - Dec 2021\nSUNY Orange New York, Middletown | Middletown, NY AS in Liberal Arts | Jan 2009 - June 2011"
   },
   {
     "objectID": "about.html#experience",
     "href": "about.html#experience",
-    "title": "Alex Labuda",
+    "title": "About Alex",
     "section": "Experience",
     "text": "Experience\nZion & Zion | Data Scientist & Tableau Developer | Jan 2021 - Present\nFedEx Express | Courier | Feb 2014 - March 2021\nFedEx Ground | Courier | Oct 2011 - Feb 2014"
   }
