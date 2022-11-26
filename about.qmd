@@ -1,6 +1,6 @@
 ---
 title: "Alex Labuda"
-image: profile.jpg
+image: my-profile-pic.jpg
 about:
   template: solana
   links:
